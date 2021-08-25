@@ -1,0 +1,28 @@
+{
+  "name": "vk-api-framework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cinomus/vk-api-framework.git"
+  },
+  "scripts": {
+    "start": "node test.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "cinomus",
+  "license": "ISC",
+  "devDependencies": {
+    "koa-compose": "^4.1.0"
+  },
+  "dependencies": {
+    "abort-controller": "^3.0.0",
+    "axios": "^0.21.1",
+    "co-ware": "^1.6.0",
+    "form-data": "^4.0.0",
+    "mime-types": "^2.1.32",
+    "node-fetch": "^2.6.1",
+    "p-timeout": "^4.1.0"
+  }
+}
