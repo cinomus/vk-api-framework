@@ -1,1 +1,1 @@
-"# vk-api-framework" 
+Vk framework like Telegraf.js
